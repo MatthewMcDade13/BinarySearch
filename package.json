@@ -1,0 +1,15 @@
+{
+  "name": "@mmcdade/binarysearch",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Binary Search implementation that can search arrays of basic types as well as objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmcdade",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.6.1"
+  }
+}
